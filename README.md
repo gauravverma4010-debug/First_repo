@@ -1,2 +1,2 @@
 # First_repo
-This is sample repo.
+This is a sample repo.
